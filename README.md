@@ -2,6 +2,7 @@
 # To run the Social Distance Detection project using the Intelrepo code, follow these steps:
 
 # Download the code and move it to the "yolo-coco" folder.
+https://drive.google.com/file/d/1LtekYJd3X_Pe4GgzQ4GzwFLjX92vyLeg/view?usp=drive_link
 
 # Open your terminal.
 
