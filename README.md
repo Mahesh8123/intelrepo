@@ -30,3 +30,8 @@ time python distance.py --input CCTV_demo.mp4 --output output.avi --display 1
 This command will analyze the "output1.mp4" video, generate an "output.avi" file, and display the output in a separate window.
 
 After executing the command, a window will pop up showing the social distance detection in progress. Once the execution is complete, the "output.avi" file will be available in your current directory, containing the results of the social distance detection.
+
+# Snapshots of the project
+![WhatsApp Image 2023-07-11 at 20 03 57](https://github.com/Mahesh8123/intelrepo/assets/120500828/c50d9115-9ce0-4200-9f71-b7ce9ac872f1)
+![WhatsApp Image 2023-07-11 at 20 03 58](https://github.com/Mahesh8123/intelrepo/assets/120500828/2e0f081c-3eea-4784-9be4-6fc4d97327f4)
+
