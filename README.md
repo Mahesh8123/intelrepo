@@ -9,6 +9,7 @@ https://drive.google.com/file/d/1LtekYJd3X_Pe4GgzQ4GzwFLjX92vyLeg/view?usp=drive
 # Open your terminal.
 
 # Change the directory to where you have downloaded the code.
+     cd Social-distance-detection
 
 # If you haven't installed Python 3, install it. If you already have Python 3 installed, you can skip this step.
 
