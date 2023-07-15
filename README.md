@@ -1,4 +1,4 @@
-# Intel-Unnati Training Program project submission- Rennaisance Squad from Sri Sairam College of Engineering Bengalu
+# Intel-Unnati Training Program project submission- Rennaisance Squad from Sri Sairam College of Engineering Bengaluru 
 
 # To run the Social Distance Detection project using the Intelrepo code, follow these steps:
 
